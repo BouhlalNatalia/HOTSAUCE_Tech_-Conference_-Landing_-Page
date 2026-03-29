@@ -10,7 +10,8 @@
 A multi-section, fully responsive landing page (6 sections) developed as part of a Front-end course. This project showcases modern CSS layouts and custom interactive components.
 
 ### 🚀 Live Demo
-[Insert your GitHub Pages link here]
+[View Live Project](https://bouhlalnatalia.github.io/HOTSAUCE_Tech_-Conference_-Landing_-Page/)
+
 
 ### 🛠 Tech Stack
 * **HTML5** — Semantic and accessible markup.
@@ -31,7 +32,7 @@ A multi-section, fully responsive landing page (6 sections) developed as part of
 Eine voll adaptive Landingpage mit 6 Sektionen für eine Tech-Konferenz. Das Projekt legt besonderen Fokus auf präzises Responsive Design und moderne Layout-Techniken.
 
 ### 🚀 Live-Demo
-[Link zu GitHub Pages hier einfügen]
+[Projekt live ansehen](https://bouhlalnatalia.github.io/HOTSAUCE_Tech_-Conference_-Landing_-Page/)
 
 ### 🛠 Technologien
 * **HTML5** — Semantische Struktur.
@@ -51,7 +52,7 @@ Eine voll adaptive Landingpage mit 6 Sektionen für eine Tech-Konferenz. Das Pro
 Адаптивный лендинг из 6 экранов для технологической конференции. Проект выполнен с упором на детальную проработку поведения элементов на различных мобильных и десктопных устройствах.
 
 ### 🚀 Демо
-[Вставьте ссылку на GitHub Pages здесь]
+[Посмотреть проект в браузере](https://bouhlalnatalia.github.io/HOTSAUCE_Tech_-Conference_-Landing_-Page/)
 
 ### 🛠 Стек технологий
 * **HTML5** — Семантическая верстка.

@@ -96,10 +96,15 @@ header {
   font-family: sans-serif;
   max-width: 1920px;
   margin: 0 auto;
-  left: 50%;
-  transform: translateX(-50%);
+  transition: all 0.5s ease;
+  opacity: 1;
+  transform: translateY(0);
 }
-
+.cookies_banner.hidden {
+    opacity: 0;
+    transform: translateY(100px); 
+    pointer-events: none; 
+}
 .cookies_info {
   max-width: clamp(50%, 60vw, 65%);
   margin-right: 20px;
